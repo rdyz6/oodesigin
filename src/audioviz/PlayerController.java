@@ -38,7 +38,9 @@ import java.text.DecimalFormat;
  * Music: http://www.bensound.com/royalty-free-music
  * http://www.audiocheck.net/testtones_sinesweep20-20k.php
  * http://stackoverflow.com/questions/11994366/how-to-reference-primarystage
- */
+ * Name: Runnan Dong
+ * 
+ * */
 public class PlayerController implements Initializable {
     
     @FXML

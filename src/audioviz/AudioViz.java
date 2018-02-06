@@ -12,8 +12,8 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
- *
- * @author dale
+ *@author:Dale
+ * name: Runnan Dong
  */
 public class AudioViz extends Application {
     
